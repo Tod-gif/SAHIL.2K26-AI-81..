@@ -1,0 +1,9 @@
+QUESTION NO: 4
+
+set = {10, 20, 30, 40, 50}
+num = int(input("Enter a number to check: "))
+
+if num in set:
+    print("Numbers exists in the set")
+else:
+    print("Numbers does not exist in the set")
