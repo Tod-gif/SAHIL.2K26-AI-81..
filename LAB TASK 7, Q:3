@@ -1,0 +1,6 @@
+QUESTION NO: 3
+
+nums = {1, 2, 3, 4, 5}
+nums.add(10)
+nums.remove(3)
+print(nums)
