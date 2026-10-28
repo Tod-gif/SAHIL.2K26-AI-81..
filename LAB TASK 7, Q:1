@@ -1,0 +1,4 @@
+QUESTION NO : 1
+
+fruits = {'apple', 'banana', 'mango', 'orange', 'grapes'}
+print(fruits)
